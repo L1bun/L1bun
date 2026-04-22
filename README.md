@@ -6,7 +6,7 @@
 
 ---
 
-## 👋 Hey, I'm Gaade Libun Kumar  
+## 👋 Hey, I'm Libun  
 
 💡 DevOps Engineer focused on building scalable, automated, and secure cloud infrastructures.  
 I specialize in **CI/CD pipelines, cloud architecture, and DevSecOps practices**.
