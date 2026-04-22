@@ -1,20 +1,26 @@
 # 🚀 DevOps Engineer | Cloud Architect | Automation Specialist  
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Automation+%7C+CI%2FCD+%7C+Cloud;Building+Scalable+Systems" />
+</p>
+
+---
+
 ## 👋 Hey, I'm Gaade Libun Kumar  
 
-💡 DevOps Engineer with hands-on experience in building scalable, automated, and secure cloud systems.  
-I focus on **Cloud Infrastructure, CI/CD Pipelines, and DevSecOps practices** to deliver production-ready systems.
+💡 DevOps Engineer focused on building scalable, automated, and secure cloud infrastructures.  
+I specialize in **CI/CD pipelines, cloud architecture, and DevSecOps practices**.
 
 ---
 
 ## ⚡ About Me  
 
-- ☁️ Working with **AWS & Azure** multi-cloud environments  
-- ⚙️ Building **CI/CD pipelines** for faster and safer deployments  
-- 🐳 Containerizing applications with **Docker**  
-- ☸️ Orchestrating microservices using **Kubernetes**  
-- 💻 Writing automation scripts in **Python & Go**  
-- 🔐 Implementing **DevSecOps & zero-trust architectures**  
+- ☁️ Multi-cloud experience with **AWS & Azure**  
+- ⚙️ Building **CI/CD pipelines** (GitHub Actions, Jenkins)  
+- 🐳 Containerization using **Docker**  
+- ☸️ Orchestration with **Kubernetes**  
+- 💻 Automation using **Python & Go**  
+- 🔐 Focused on **DevSecOps & Cloud Security**  
 
 ---
 
@@ -38,60 +44,55 @@ I focus on **Cloud Infrastructure, CI/CD Pipelines, and DevSecOps practices** to
 ![Python](https://img.shields.io/badge/Python-Language-yellow?logo=python)  
 ![Go](https://img.shields.io/badge/Go-Language-blue?logo=go)  
 
-### 📊 Monitoring & Logging  
+### 📊 Monitoring  
 ![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)  
 ![Grafana](https://img.shields.io/badge/Grafana-Visualization-orange?logo=grafana)  
-![ELK](https://img.shields.io/badge/ELK-Logging-yellow?logo=elastic)  
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=L1bun&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1bun&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
 ## 🚀 What I Do  
 
-- 🔁 Design and implement **CI/CD pipelines**  
-- ☁️ Build **scalable cloud architectures**  
-- 📦 Containerize and deploy applications  
-- ☸️ Manage Kubernetes clusters in production  
-- 🔐 Integrate **security into DevOps pipelines**  
-- 📊 Monitor systems for performance and reliability  
+- 🔁 Build and optimize **CI/CD pipelines**  
+- ☁️ Design **cloud-native architectures**  
+- 📦 Deploy scalable containerized apps  
+- ☸️ Manage Kubernetes clusters  
+- 🔐 Implement **DevSecOps pipelines**  
+- 📊 Monitor system performance  
 
 ---
 
 ## 📌 Featured Projects  
 
 ### 🛡️ DevSecOps Pipeline on AWS  
-- EKS + Jenkins + ArgoCD + OWASP Dependency Check  
-- Zero-trust GitOps deployment strategy  
-- Automated security scanning in CI/CD  
+- EKS + Jenkins + ArgoCD  
+- OWASP Dependency Scanning  
+- Zero-trust GitOps deployment  
 
----
+### 🤖 AI DevOps Project (AERI)  
+- AI chatbot automation system  
+- Infrastructure automation  
+- Future voice AI integration  
 
-### 🤖 AI DevOps Automation (AERI)  
-- AI chatbot for business automation  
-- Automated infrastructure provisioning  
-- Future integration with Voice AI  
-
----
-
-### 🌐 Multi-Cloud Infrastructure  
-- Hybrid deployment using AWS & Azure  
-- High availability & failover setup  
-- Infrastructure as Code using Terraform  
+### 🌐 Multi-Cloud Deployment  
+- AWS + Azure hybrid setup  
+- High availability architecture  
+- Terraform-based infrastructure  
 
 ---
 
 ## 🌍 Connect With Me  
 
 - 🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 💻 GitHub: https://github.com/YOUR_USERNAME  
-- 🌐 Portfolio: https://your-portfolio.com  
+- 💻 GitHub: https://github.com/L1bun  
 
 ---
 
@@ -100,3 +101,7 @@ I focus on **Cloud Infrastructure, CI/CD Pipelines, and DevSecOps practices** to
 > Automate everything. Monitor everything. Improve continuously.
 
 ---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=L1bun&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
