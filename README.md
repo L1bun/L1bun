@@ -2,10 +2,6 @@
 
 ### DevOps & Cloud Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=L1bun&label=Profile views&color=0e75b6&style=flat" alt="L1bun" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=L1bun" alt="L1bun" /></a> </p>
-
 - 🔭 I'm currently working on **Cloud applications using Docker and Kubernetes**
 
 - 🌱 I'm currently learning **Kubernetes, AWS, Docker, and Cloud technologies**
