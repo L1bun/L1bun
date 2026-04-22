@@ -8,7 +8,7 @@
 
 - 👯 I'm looking to collaborate on **DevOps and Cloud projects**
 
-- 💬 Ask me about **Python, Flask, Docker, Kubernetes, AWS**
+- 💬 Ask me about **Python, Docker, Kubernetes, AWS**
 
 - 📫 How to reach me **libungaade@gmail.com**
 
