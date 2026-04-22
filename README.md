@@ -99,7 +99,7 @@ I specialize in **CI/CD pipelines, cloud architecture, and DevSecOps practices**
 
 ## 🌍 Connect With Me  
 
-- 🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 🔗 LinkedIn: https://www.linkedin.com/in/libungaade/ 
 - 💻 GitHub: https://github.com/L1bun  
 
 ---
