@@ -1,12 +1,16 @@
 # 🚀 DevOps Engineer | Cloud Architect | Automation Specialist  
 
 <p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="600" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Automation+%7C+CI%2FCD+%7C+Cloud;Building+Scalable+Systems" />
 </p>
 
 ---
 
-## 👋 Hey, I'm Libun  
+## 👋 Hey, I'm Gaade Libun Kumar  
 
 💡 DevOps Engineer focused on building scalable, automated, and secure cloud infrastructures.  
 I specialize in **CI/CD pipelines, cloud architecture, and DevSecOps practices**.
@@ -77,10 +81,14 @@ I specialize in **CI/CD pipelines, cloud architecture, and DevSecOps practices**
 - OWASP Dependency Scanning  
 - Zero-trust GitOps deployment  
 
+---
+
 ### 🤖 AI DevOps Project (AERI)  
 - AI chatbot automation system  
 - Infrastructure automation  
 - Future voice AI integration  
+
+---
 
 ### 🌐 Multi-Cloud Deployment  
 - AWS + Azure hybrid setup  
@@ -91,7 +99,7 @@ I specialize in **CI/CD pipelines, cloud architecture, and DevSecOps practices**
 
 ## 🌍 Connect With Me  
 
-- 🔗 LinkedIn: https://www.linkedin.com/in/libungaade/ 
+- 🔗 LinkedIn: https://linkedin.com/in/YOUR_LINK  
 - 💻 GitHub: https://github.com/L1bun  
 
 ---
