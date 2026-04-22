@@ -1,7 +1,7 @@
 # 🚀 DevOps Engineer | Cloud Architect | Automation Specialist  
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-a6817c5a-a794-462b-afca-1b5ce7dd5e63.gif" width="600" />
+  <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" width="600" />
 </p>
 
 <p align="center">
