@@ -1,8 +1,4 @@
-# 🚀 DevOps Engineer | Cloud Architect | Automation Specialist  
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/48784001/203785020-2b4826c1-7ddb-4de8-b65b-ebf6e04c5290.jpeg" width="600" />
-</p>
+# 🚀 DevOps Engineer | Cloud Architect | Automation Specialist
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=DevOps+Engineer;AWS+%7C+Azure+%7C+Kubernetes;Automation+%7C+CI%2FCD+%7C+Cloud;Building+Scalable+Systems" />
@@ -10,101 +6,107 @@
 
 ---
 
-## 👋 Hey, I'm Libun  
+## 👋 Hey, I'm Libun
 
-💡 DevOps Engineer focused on building scalable, automated, and secure cloud infrastructures.  
+💡 DevOps Engineer focused on building scalable, automated, and secure cloud infrastructures.
 I specialize in **CI/CD pipelines, cloud architecture, and DevSecOps practices**.
 
 ---
 
-## ⚡ About Me  
+## ⚡ About Me
 
-- ☁️ Multi-cloud experience with **AWS & Azure**  
-- ⚙️ Building **CI/CD pipelines** (GitHub Actions, Jenkins)  
-- 🐳 Containerization using **Docker**  
-- ☸️ Orchestration with **Kubernetes**  
-- 💻 Automation using **Python & Go**  
-- 🔐 Focused on **DevSecOps & Cloud Security**  
-
----
-
-## 🛠️ Tech Stack  
-
-### ☁️ Cloud  
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white)  
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure&logoColor=white)  
-
-### ⚙️ DevOps & Automation  
-![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins&logoColor=white)  
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-black?logo=github-actions)  
-![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)  
-![Ansible](https://img.shields.io/badge/Ansible-Automation-black?logo=ansible)  
-
-### 🐳 Containers & Orchestration  
-![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)  
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)  
-
-### 💻 Programming  
-![Python](https://img.shields.io/badge/Python-Language-yellow?logo=python)  
-![Go](https://img.shields.io/badge/Go-Language-blue?logo=go)  
-
-### 📊 Monitoring  
-![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)  
-![Grafana](https://img.shields.io/badge/Grafana-Visualization-orange?logo=grafana)  
+- ☁️ Multi-cloud experience with **AWS & Azure**
+- ⚙️ Building **CI/CD pipelines** (GitHub Actions, Jenkins)
+- 🐳 Containerization using **Docker**
+- ☸️ Orchestration with **Kubernetes**
+- 💻 Automation using **Python & Go**
+- 🔐 Focused on **DevSecOps & Cloud Security**
 
 ---
 
-## 📊 GitHub Stats  
+## 🛠️ Tech Stack
+
+### ☁️ Cloud
+![AWS](https://img.shields.io/badge/AWS-Cloud-orange?logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-Cloud-blue?logo=microsoft-azure&logoColor=white)
+
+### ⚙️ DevOps & Automation
+![Jenkins](https://img.shields.io/badge/Jenkins-CI/CD-red?logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Automation-black?logo=github-actions)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-purple?logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black?logo=ansible)
+
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-Container-blue?logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes)
+
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-Language-yellow?logo=python)
+![Go](https://img.shields.io/badge/Go-Language-blue?logo=go)
+
+### 📊 Monitoring
+![Prometheus](https://img.shields.io/badge/Prometheus-Monitoring-orange?logo=prometheus)
+![Grafana](https://img.shields.io/badge/Grafana-Visualization-orange?logo=grafana)
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=L1bun&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1bun&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=L1bun&show_icons=true&theme=tokyonight&cache_seconds=1800&include_all_commits=true&count_private=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1bun&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1bun&theme=tokyonight" />
 </p>
 
 ---
 
-## 🚀 What I Do  
+## 🚀 What I Do
 
-- 🔁 Build and optimize **CI/CD pipelines**  
-- ☁️ Design **cloud-native architectures**  
-- 📦 Deploy scalable containerized apps  
-- ☸️ Manage Kubernetes clusters  
-- 🔐 Implement **DevSecOps pipelines**  
-- 📊 Monitor system performance  
-
----
-
-## 📌 Featured Projects  
-
-### 🛡️ DevSecOps Pipeline on AWS  
-- EKS + Jenkins + ArgoCD  
-- OWASP Dependency Scanning  
-- Zero-trust GitOps deployment  
+- 🔁 Build and optimize **CI/CD pipelines**
+- ☁️ Design **cloud-native architectures**
+- 📦 Deploy scalable containerized apps
+- ☸️ Manage Kubernetes clusters
+- 🔐 Implement **DevSecOps pipelines**
+- 📊 Monitor system performance
 
 ---
 
-### 🤖 AI DevOps Project (AERI)  
-- AI chatbot automation system  
-- Infrastructure automation  
-- Future voice AI integration  
+## 📌 Featured Projects
+
+### 🛡️ DevSecOps Pipeline
+- Jenkins + Docker + Kubernetes + Minikube
+- OWASP Dependency Scanning
+- Automated build, scan, and deploy pipeline
+- 👉 [View Project](https://github.com/L1bun/devsecops-pipeline)
 
 ---
 
-### 🌐 Multi-Cloud Deployment  
-- AWS + Azure hybrid setup  
-- High availability architecture  
-- Terraform-based infrastructure  
+### 🤖 AI DevOps Project (AERI)
+- AI chatbot automation system
+- Infrastructure automation
+- Future voice AI integration
 
 ---
 
-## 🌍 Connect With Me  
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/libungaade/ 
-- 💻 GitHub: https://github.com/L1bun  
+### 🌐 Multi-Cloud Deployment
+- AWS + Azure hybrid setup
+- High availability architecture
+- Terraform-based infrastructure
 
 ---
 
-## 💡 DevOps Philosophy  
+## 🌍 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/libungaade/
+- 💻 GitHub: https://github.com/L1bun
+
+---
+
+## 💡 DevOps Philosophy
 
 > Automate everything. Monitor everything. Improve continuously.
 
