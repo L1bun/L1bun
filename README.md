@@ -77,7 +77,7 @@ I specialize in **CI/CD pipelines, cloud architecture, and DevSecOps practices**
 
 ## 📌 Featured Projects
 
-### 🧩 NovaPlatform — Self-Service Internal Developer Platform
+### 🧩 NovaPlatform  Self-Service Internal Developer Platform
 Terraform + LocalStack provisioning, Argo CD GitOps, reusable Helm charts, Prometheus/Grafana monitoring, per-namespace RBAC, and a custom CLI orchestrating the whole stack — running entirely on a local Kubernetes cluster.
 - 👉 Infra repo: https://github.com/L1bun/nova-platform
 - 👉 GitOps content repo: https://github.com/L1bun/nova-platform-gitops
