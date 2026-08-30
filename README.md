@@ -59,7 +59,7 @@ I specialize in **CI/CD pipelines, cloud architecture, and DevSecOps practices**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=L1bun&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=L1bun&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?user=L1bun&theme=tokyonight" />
 </p>
 
 ---
