@@ -50,11 +50,10 @@ I specialize in **CI/CD pipelines, cloud architecture, and DevSecOps practices**
 
 ---
 
-## 📊 GitHub Stats
+## 🐍 GitHub Activity
 
 <p align="center">
-  <img src="./profile/stats.svg" height="180" />
-  <img src="./profile/top-langs.svg" height="180" />
+  <img src="https://raw.githubusercontent.com/L1bun/L1bun/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
