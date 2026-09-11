@@ -50,10 +50,8 @@ I specialize in **CI/CD pipelines, cloud architecture, and DevSecOps practices**
 
 ---
 
-## 👋 Hey, I'm L1bun
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=DevOps+Engineer;Cloud+%7C+Kubernetes+%7C+AWS;Terraform+%7C+Docker+%7C+GitHub+Actions;Building+Cloud-Native+Systems" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/main/demo/demo.gif" width="500">
 </p>
 
 ---
