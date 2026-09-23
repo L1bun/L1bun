@@ -73,12 +73,12 @@ I specialize in **CI/CD pipelines, cloud architecture, and DevSecOps practices**
 ## 📌 Featured Projects
 
 ### 🧩 NovaPlatform  Self-Service Internal Developer Platform
-Terraform + LocalStack provisioning, Argo CD GitOps, reusable Helm charts, Prometheus/Grafana monitoring, per-namespace RBAC, and a custom CLI orchestrating the whole stack — running entirely on a local Kubernetes cluster.
+Terraform + LocalStack provisioning, Argo CD GitOps, reusable Helm charts, Prometheus/Grafana monitoring, per-namespace RBAC, and a custom CLI orchestrating the whole stack running entirely on a local Kubernetes cluster.
 - 👉 Infra repo: https://github.com/L1bun/nova-platform
 - 👉 GitOps content repo: https://github.com/L1bun/nova-platform-gitops
 
 ### 🛡️ DevSecOps Pipeline
-End-to-end DevSecOps pipeline using Jenkins, Docker, Kubernetes, and OWASP dependency scanning — automated build, scan, and deploy.
+End-to-end DevSecOps pipeline using Jenkins, Docker, Kubernetes, and OWASP dependency scanning automated build, scan, and deploy.
 - 👉 https://github.com/L1bun/devsecops-pipeline
 
 ### ☁️ Cloud-Native Monitoring App
