@@ -89,7 +89,7 @@ System monitoring app built with Python, Flask, Docker, and Kubernetes, deployed
 
 ## 🌍 Connect With Me
 
-- 🔗 
+- 🔗 LinkedIn: https://www.linkedin.com/in/libungaade/
 - 💻 GitHub: https://github.com/L1bun
 
 ---
