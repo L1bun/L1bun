@@ -96,7 +96,7 @@ System monitoring app built with Python, Flask, Docker, and Kubernetes, deployed
 
 ## 💡 DevOps Philosophy
 
-> Automate everything. Monitor everything. Improve continuously.
+![](> Automate everything. Monitor everything. Improve continuously.?type=horizontal&theme=radical)
 
 ---
 
