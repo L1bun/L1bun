@@ -96,7 +96,7 @@ System monitoring app built with Python, Flask, Docker, and Kubernetes, deployed
 
 ## 💡 DevOps Philosophy
 
-![](> Automate everything. Monitor everything. Improve continuously.?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 
